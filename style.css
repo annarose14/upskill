@@ -1,0 +1,202 @@
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #a12672;
+        }
+        
+        #welcome-page,
+        #login-page,
+        #home-page {
+            text-align: center;
+            margin-top: 150px;
+            font-size: 30px;
+            font-weight: bold;
+            color: #212020;
+        }
+        
+        #login-page input,
+        #login-page button {
+            margin-top: 10px;
+        }
+        
+        #login-page input[type="text"],
+        #login-page input[type="password"] {
+            padding: 5px;
+            width: 200px;
+        }
+        
+        #login-page button {
+            padding: 5px 10px;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        #home-page {
+            text-align: center;
+            margin-top: 150px;
+        }
+        
+        #home-page ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        #home-page ul li {
+            display: inline-block;
+            margin: 10px;
+        }
+        
+        #home-page ul li a {
+            text-decoration: none;
+            padding: 10px 50px;
+            background-color: #f6ebf2;
+            color: #333;
+            border-radius: 50px;
+        }
+        
+        #home-page ul li a:hover {
+            background-color: #333;
+            color: white;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        #profile-page {
+            text-align: center;
+            margin-top: 150px;
+        }
+        
+        #profile-page img {
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
+        
+        #profile-page h1 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        
+        #profile-page h2 {
+            font-size: 50px;
+            margin-bottom: 5px;
+        }
+        
+        #profile-page p {
+            font-size: 14px;
+            color: #f4efef;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        #contact-page {
+            text-align: center;
+            margin-top: 150px;
+        }
+        
+        #contact-page h1 {
+            font-size: 70px;
+            margin-bottom: 20px;
+        }
+        
+        #contact-page p {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        
+        #contact-page .contact-info {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        #contact-page .contact-info img {
+            width: 30px;
+            margin-right: 10px;
+        }
+        
+        #contact-page .contact-info p {
+            margin: 0;
+        }
+        
+        #contact-page .contact-info a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        
+        #contact-page .contact-info a:hover {
+            color: #f3f7fa;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        #learn-page {
+            text-align: center;
+            margin-top: 150px;
+        }
+        
+        #learn-page h1 {
+            font-size: 70px;
+            margin-bottom: 20px;
+        }
+        
+        .buttons-container {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+        
+        .learn-button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background-color: #f5faff;
+            color: #131111;
+            text-decoration: none;
+            font-size: 16px;
+            border-radius: 4px;
+            border-radius: 50px;
+        }
+        
+        .learn-button:hover {
+            background-color: #f2f6f9;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        #about-page {
+            text-align: center;
+            margin-top: 150px;
+        }
+        
+        #about-page h1 {
+            font-size: 50px;
+            margin-bottom: 20px;
+        }
+        
+        #about-page p {
+            font-size: 16px;
+            margin-bottom: 10px;
+            text-align: left;
+        }
+        
+        #about-page .quote {
+            font-style: italic;
+            color: #777;
+        }
+        
+        #about-page .author {
+            font-weight: bold;
+            color: #333;
+        }
